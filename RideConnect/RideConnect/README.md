@@ -8,18 +8,6 @@ RideConnect is a polished, resume-ready full-stack sample project demonstrating:
 
 ---
 
-## Contents
-
-```
-RideConnect/
-├── backend/        # Node.js + Express API
-├── frontend/       # Simple Bootstrap frontend (static)
-├── database.sql    # MySQL schema + seed data
-├── README.md
-```
-
----
-
 ## Quickstart (Backend)
 
 1. Copy `.env.example` to `.env` and update credentials:
